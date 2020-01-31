@@ -114,3 +114,16 @@ http://www.jlmu.cn        --> 吉林医药学院
 http://www.yanbianhospital.com/        --> 延边大学附属医院
 http://www.ccmc.edu.cn        --> 长春医学高等专科学校
 http://www.bcyz.cn/        --> 白城医学高等专科学校
+
+黑龙江省：
+http://www.hljhospital.org.cn/        --> 黑龙江省医院
+http://www.hljcdc.org/        --> 黑龙江省疾病预防控制中心
+http://www.hljsyxh.org/        --> 黑龙江省医学会
+http://www.hljjh.cn/        --> 黑龙江省传染病防治院
+http://www.hljfpa.org.cn/        --> 黑龙江省计划生育协会
+http://www.hljhlgz.org.cn/        --> 黑龙江省护理高等专科学校
+http://www.hljtcm.com.cn/        --> 黑龙江省中医药科学院
+http://www.zgyygl.com/        --> 黑龙江省卫生发展研究中心
+http://www.hljtb.org.cn        --> 黑龙江省结核病预防控制中心
+http://www.hljskqyy.com/        --> 黑龙江省口腔病防治院
+http://www.hljsykyy.org.cn/        --> 黑龙江省眼病防治所
