@@ -32,3 +32,14 @@ http://www.nhc.gov.cn/https://wsjkw.qinghai.gov.cn/  --> 青海省卫生健康�
 http://wsjkw.nx.gov.cn/  --> 宁夏回族自治区卫生健康委员会
 http://www.nhc.gov.cn//wjw/dfzfwz/201906/3282d1caa6494ac29ec748af0eaf1625.shtml  --> 新疆维吾尔自治区卫生健康委员会
 http://www.nhc.gov.cn//wjw/dfzfwz/201906/b42fbb2fc3ea4bedb14262740f512328.shtml  --> 新疆生产建设兵团卫生健康委员会
+
+河北省：
+http://wsjk.sjz.gov.cn        --> 石家庄市卫生健康委
+http://wjw.chengde.gov.cn        --> 承德市卫生健康委
+http://wjw.qhd.gov.cn        --> 秦皇岛市卫生健康委
+http://wsjkwyh.tangshan.gov.cn        --> 唐山市卫生健康委
+http://wjw.lf.gov.cn/html/index.html        --> 廊坊市卫生健康委
+http://www.bdswjw.gov.cn/        --> 保定市卫生健康委
+http://wjw.hengshui.gov.cn        --> 衡水市卫生健康委
+http://wsjkw.xingtai.gov.cn        --> 邢台市卫生健康委
+http://wjw.hd.gov.cn        --> 邯郸市卫生健康委
