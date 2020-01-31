@@ -245,3 +245,35 @@ http://www.21wecan.com/        --> 中国卫生人才网"
 http://www.nmec.org.cn/        --> 国家医学考试中心"
 http://www.jsredcross.org.cn/        --> 江苏省红十字会"
 http://www.jsyxh.org/        --> 江苏省医院协会"
+
+湖北省：
+http://wjw.wuhan.gov.cn/        --> 武 汉
+http://wjw.huangshi.gov.cn/        --> 黄 石
+http://wjw.shiyan.gov.cn/        --> 十 堰
+http://wjw.yichang.gov.cn        --> 宜 昌
+http://wjw.xiangyang.gov.cn/        --> 襄 阳
+http://wjw.ezhou.gov.cn/        --> 鄂 州
+http://wjw.jingmen.gov.cn/        --> 荆 门
+http://wjw.xiaogan.gov.cn/        --> 孝 感
+http://wjw.jingzhou.gov.cn/        --> 荆 州
+http://wjw.hg.gov.cn/        --> 黄 冈
+http://wjw.xianning.gov.cn/        --> 咸 宁
+http://wjw.suizhou.gov.cn/        --> 随 州
+http://wjw.enshi.gov.cn/        --> 恩 施
+http://wjw.xiantao.gov.cn/        --> 仙 桃
+http://www.hbqj.gov.cn/wsjs/        --> 潜 江
+http://www.hb3rm.com/        --> 湖北省第三人民医院（湖北省中山医院）
+http://www.tjh.com.cn/        --> 同济医院
+http://www.whuh.com/        --> 协和医院
+http://www.rmhospital.com/        --> 湖北省人民医院
+http://www.znhospital.cn/        --> 中南医院
+http://www.liyuanhospital.com/        --> 梨园医院
+http://www.hbch.com.cn/        --> 湖北省肿瘤医院
+http://www.hbfy.com/        --> 湖北省妇幼保健院
+http://www.hbszyy.com.cn/        --> 湖北省直机关医院
+http://www.hbhtcm.com/        --> 湖北省中医院
+http://www.wkdty.com/        --> 武汉科技大学附属天佑医院
+http://www.wahh.com.cn/        --> 武汉亚洲心脏病医院
+http://www.hbwsjd.gov.cn/        --> 湖北省卫生计生委综合监督局
+http://www.hbccl.cn/        --> 湖北省临床检验中心
+http://www.hbwsjd.gov.cn/        --> 湖北省卫生计生委综合监督局
