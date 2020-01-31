@@ -127,3 +127,70 @@ http://www.zgyygl.com/        --> 黑龙江省卫生发展研究中心
 http://www.hljtb.org.cn        --> 黑龙江省结核病预防控制中心
 http://www.hljskqyy.com/        --> 黑龙江省口腔病防治院
 http://www.hljsykyy.org.cn/        --> 黑龙江省眼病防治所
+
+上海市:
+http://www.pudong.gov.cn/shpd/department/019023/        --> 浦东新区卫生健康委
+http://www.shhuangpu.gov.cn/yqyw/010001/010001012/department.html        --> 黄浦区卫生健康委
+http://www.changning.sh.cn/wjw        --> 长宁区卫生健康委
+http://www.jingan.gov.cn/        --> 静安区卫生健康委
+http://www.shpt.gov.cn/weijiwei/        --> 普陀区卫生健康委
+http://www.shhk.gov.cn/shhk/        --> 虹口区卫生健康委
+http://www.shyp.gov.cn/zwgk/Home/List?parentModuleId=00930004&amp;ouCode=SI000184        --> 杨浦区卫生健康委
+http://www.shmh.gov.cn/shmh/wjw/index.html        --> 闵行区卫生健康委
+http://www.jinshan.gov.cn/gb/shjs/n4304/n4476/index.html        --> 金山区卫生计生委
+http://www.songjiang.gov.cn/        --> 松江区卫生健康委
+http://www.shqp.gov.cn/wsjkw/        --> 青浦区卫生健康委
+http://www.shcm.gov.cn/cm_website/html/DefaultSite/shcm_xxgk_xzfbmyxzgk_xzfbm_xrkjhsywyh/List/index.htm        --> 崇明区卫生健康委
+http://www.xuhui.gov.cn/H/zfjg/weishengju        --> 徐汇区卫生健康委" totabtarget="59" retabtarget="61
+http://ch.shmu.edu.cn/index        --> 复旦大学附属儿科医院" tabtarget="63" toretabtarget="64
+http://fckyy.fudan.edu.cn/        --> 复旦大学附属妇产科医院
+https://huashan.org.cn/        --> 复旦大学附属华山医院
+http://www.n-huashan.org.cn/        --> 复旦大学附属华山医院北院
+http://www.fdeent.org/        --> 复旦大学附属眼耳鼻喉科医院
+http://www.zs-hospital.sh.cn/        --> 复旦大学附属中山医院
+http://www.shca.org.cn/        --> 复旦大学附属肿瘤医院
+http://www.9hospital.com.cn/        --> 上海交通大学医学院附属第九人民医院
+http://www.renji.com/        --> 上海交通大学医学院附属仁济医院
+http://www.renji.com/        --> 上海交通大学医学院附属仁济医院南院
+http://www.rjh.com.cn/        --> 上海交通大学医学院附属瑞金医院
+http://www.rjhn.com.cn        --> 上海交通大学医学院附属瑞金医院北院
+http://www.scmc.com.cn/        --> 上海交通大学医学院附属上海儿童医学中心
+http://www.xinhuamed.com.cn/        --> 上海交通大学医学院附属新华医院
+http://www.longhua.net/        --> 上海中医药大学附属龙华医院
+http://www.sgyy.cn/        --> 上海中医药大学附属曙光医院
+http://www.yueyangyy.com/        --> 上海中医药大学附属岳阳中西医结合医院
+http://chhospital.com.cn/        --> 海军军医大学第一附属医院
+http://www.shczyy.com/        --> 海军军医大学第二附属医院
+http://www.firsthospital.cn/        --> 上海市第一人民医院
+http://www.6thhosp.com/        --> 上海市第六人民医院
+http://www.6thhosp-east.com/        --> 上海市第六人民医院东院
+http://www.shdsyy.com.cn/        --> 上海市第十人民医院
+http://www.shchildren.com.cn/        --> 上海市儿童医院
+http://www.szy.sh.cn        --> 上海市中医医院
+http://www.shxkyy.com/        --> 上海市胸科医院
+http://www.shsfkyy.com/        --> 上海市肺科医院
+http://www.shaphc.org/        --> 上海市公共卫生临床中心
+http://www.smhc.org.cn/        --> 上海市精神卫生中心
+https://www.51mch.com/        --> 上海市第一妇婴保健院
+http://www.ipmch.com.cn/        --> 中国福利会国际和平妇幼保健院
+http://www.shssdc.com/        --> 上海市口腔病防治院
+http://www.shsyf.com/        --> 上海市眼病防治中心
+http://www.shskin.com        --> 上海市皮肤病医院
+http://www.huadonghospital.com        --> 华东医院
+http://www.tongjihospital.com.cn/        --> 上海市同济医院
+http://www.tongjikouqiang.com/        --> 同济大学附属口腔医院" totabtarget="60" retabtarget="62
+http://www.shdrc.org/        --> 上海市卫生和健康发展研究中心" tabtarget="65" toretabtarget="66
+http://jds.wsjkw.sh.gov.cn/        --> 上海市卫生健康委员会监督所
+http://www.shhgzf.com/        --> 上海市化工职业病防治院
+https://www.shblood.org.cn        --> 上海市血液管理办公室
+http://www.12320.sh.cn/        --> 上海市健康促进中心" class="sf-with-ul
+http://www.shwshr.com/        --> 上海市卫生人才交流服务中心
+http://www.hdlyy.com/        --> 华东疗养院
+http://www.shmchc.cn/        --> 上海市妇幼保健中心
+http://www.sbc.org.cn/        --> 上海市血液中心
+http://www.sh120.sh.cn/        --> 上海市医疗急救中心
+http://www.scdc.sh.cn/        --> 上海市疾病预防控制中心
+http://www.sccl.org.cn/        --> 上海市临床检验中心
+http://www.shfpa.org.cn/        --> 上海市计划生育协会
+http://211.144.69.68/spfpme/        --> 上海市计划生育药具管理中心
+
