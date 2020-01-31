@@ -376,3 +376,34 @@ http://www.ahyxh.org.cn/        --> 安徽省医学情报研究所
 http://www.ahszlfzs.com/        --> 安徽省肿瘤防治所
 http://www.ahjsxc.com/        --> 安徽卫生健康宣传教育中心
 http://www.ahtb.org        --> 安徽省结核病防治网
+
+江西省：
+http://hc.nc.gov.cn/        --> 南昌市卫生健康委员会
+http://wjw.jiujiang.gov.cn/        --> 九江市卫生健康委员会
+http://wsjs.jdz.gov.cn/        --> 景德镇市卫生健康委员会
+http://wjw.pingxiang.gov.cn/        --> 萍乡市卫生健康委员会
+http://wjw.yingtan.gov.cn/        --> 鹰潭市卫生健康委员会
+http://wjw.ganzhou.gov.cn/        --> 赣州市卫生健康委员会
+http://wjw.yichun.gov.cn        --> 宜春市卫生健康委员会
+http://www.srswjw.gov.cn/        --> 上饶市卫生健康委员会
+http://wsjk.jian.gov.cn/        --> 吉安市卫生健康委员会
+http://wjw.jxfz.gov.cn/        --> 抚州市卫生健康委员会
+http://www.cdyfy.com/        --> 南昌大学第一附属医院
+http://www.jxndefy.cn/index.shtml        --> 南昌大学第二附属医院
+http://www.jxskqyy.com/        --> 南昌大学附属口腔医院
+http://www.cdsfy.com/        --> 南昌大学第四附属医院
+http://www.jxsncdxfsykyy.cn        --> 南昌大学附属眼科医院
+http://www.jxszyy.cn/        --> 江西中医药大学附属医院
+http://fsyy.jgsu.edu.cn/        --> 井冈山大学附属医院
+http://www.jxsfybjyy.cn/        --> 江西省妇幼保健院
+http://www.jxsetyy.cn/        --> 江西省儿童医院
+http://www.jxsxkyy.cn/        --> 江西省胸科医院
+http://www.jxshmyy.cn/        --> 江西省惠民医院（省直属门诊部）
+http://www.jxhlxy.com.cn/        --> 江西卫生职业学院
+http://www.lslyy.com/        --> 江西省庐山疗养院
+http://jxams.ncu.edu.cn/        --> 省医学科学研究院 
+http://www.jxcdc.cn        --> 江西省疾病预防控制中心
+http://www.jxszfs.com/        --> 江西省职业病防治研究院
+http://www.jxszyyyjy.com/        --> 江西省中医药研究院
+http://www.jxbc.org/        --> 江西省血液中心
+http://www.jxyycg.cn/        --> 江西省医药采购服务中心
