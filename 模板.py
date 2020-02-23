@@ -33,9 +33,9 @@ def get_content(url):
     option.add_argument('headless')
     driver = webdriver.Chrome('chromedriver', options=option)
     driver.get(url)
-    title=driver.find_element_by_xpath('body > div > div > table > tbody > tr > td > table:nth-child(2) > tbody > tr:nth-child(1) > td > div').text
-    publish_date=driver.find_element_by_xpath('/html/body/div/div/table/tbody/tr/td/table[2]/tbody/tr[2]/td/div').text
-    content=driver.find_element_by_xpath('/html/body/div/div/table/tbody/tr/td/table[3]/tbody/tr/td').text
+    title=driver.find_element_by_xpath(X_path_title).text
+    publish_date=driver.find_element_by_xpath(X_path_date).text
+    content=driver.find_element_by_xpath(X_path_content).text
     data = {
         'province': Province,
         'city': City,
